@@ -1,6 +1,6 @@
 - 👋 Hi, I’m mahan
 - 👀 I’m interested in Android programming
-- 🌱 I’m currently learning JS
+- 🌱 I’m currently learning flutter
 - 📫 my email is mahan.o1381@gmail.com
 
 <!---
